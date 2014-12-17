@@ -1,10 +1,9 @@
 """
 Created on Mon Dec 15 19:03:23 2014
 
-@author: lagodw
-"""
+@author: lagodw """
 
-''' Code for kaggle competition to predict public bike rental in DC's Capital Bikeshare program
+'''Code for kaggle competition to predict public bike rental in DC's Capital Bikeshare program
 The model used is a stacking of a decision tree and k nearest neighbors, both of which performed well on their own
 The training data used included hourly rental rates for the first 19 days of each month in 2011 and 2012 with the test data including the missing days
 The data included information on the date, season, and weather '''
