@@ -3,6 +3,7 @@ Created on Mon Dec 15 19:03:23 2014
 
 @author: lagodw 
 
+
 """
 
 '''Code for kaggle competition to predict public bike rental in DC's Capital Bikeshare program
